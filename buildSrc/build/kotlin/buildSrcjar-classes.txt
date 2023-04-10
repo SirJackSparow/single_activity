@@ -1,0 +1,1 @@
+C:\Users\fendy.maulana\AndroidStudioProjects\fendy-maulana\buildSrc\build\classes\kotlin\main\AppConfig.class;C:\Users\fendy.maulana\AndroidStudioProjects\fendy-maulana\buildSrc\build\classes\kotlin\main\Depedencies.class;C:\Users\fendy.maulana\AndroidStudioProjects\fendy-maulana\buildSrc\build\classes\kotlin\main\Version.class
